@@ -1,8 +1,0 @@
-# Нормализация конца строк
-* text=auto eol=lf
-
-# Бинарные файлы
-*.png binary
-*.jpg binary
-*.gif binary
-*.pdf binary
